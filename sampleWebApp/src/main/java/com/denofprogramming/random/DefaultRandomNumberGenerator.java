@@ -25,7 +25,7 @@ public class DefaultRandomNumberGenerator implements RandomGenerator {
 	}
 	
 	public String name() {
-		return "Default Random Number Generator";
+		return "Default Random Number Generator now";
 	}
 
 }
