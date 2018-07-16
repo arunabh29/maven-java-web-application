@@ -20,7 +20,7 @@ stages {
   
   steps {
    
-   echo "My branch name: ${env.BRANCH_NAME}"
+   echo "My branch name is: ${env.BRANCH_NAME}"
    
    script {
    
