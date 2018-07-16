@@ -6,7 +6,7 @@ stages {
 
  stage ('build') {
   steps {
-  sh 'echo "Hello jenkins github pipeliens"'
+  sh 'echo "Hello jenkins github pipeline test groovy script"'
     }
   }
  }
